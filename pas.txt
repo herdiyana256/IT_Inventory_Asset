@@ -1,0 +1,14 @@
+herdiyanadam256@gmail.com
+admin
+
+adamputratv@gmail.com 
+admin123
+
+
+masteradmin@gmail.com
+admin123
+
+running : php artisan serve
+port : http://127.0.0.1:8000/dashboard/
+
+APP_KEY=base64:OA6mRXjWEAU4u4dcHXZ1Yun7d9qc0a2GU1IWwHjgseI=
